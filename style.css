@@ -24,6 +24,14 @@ h3 {
     font-weight: normal;
 }
 
+header {
+    background-color: #19242f;
+    color: #ff4043;
+    text-align: center;
+    padding: 10px 0;
+    height: 100px;
+}
+
 form {
     width: 500px;
     height: 100vh;
@@ -86,6 +94,8 @@ button:hover {
 
 .sidebar {
     box-sizing: border-box;
+    background-color: #1c2a39;
+    color: #ff4043;
     float: left;
     width: 25%;
     padding: 15px;
@@ -93,6 +103,8 @@ button:hover {
 }
 
 .main-content {
+    background-color: #f1f1f1;
+    color: #000;
     box-sizing: border-box;
     float: left;
     width: 75%;
@@ -101,14 +113,12 @@ button:hover {
 }
 
 footer {
+    height: 50px;
     width: 100%;
     float: left;
-}
-
-header {
-    height: 100px;
-}
-
-footer {
+    background-color: #19242f;
+    color: #ff4043;
+    text-align: center;
+    padding: 15px 0;
     height: 50px;
 }
