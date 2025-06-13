@@ -83,3 +83,13 @@ button {
 button:hover {
     background-color: #4285f4;
 }
+
+.sidebar {
+    width: 25%;
+
+}
+
+.main-content {
+    width: 75%;
+
+}
